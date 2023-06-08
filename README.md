@@ -2,7 +2,7 @@
 
 ## Getting started
 The default scene is Condos.
-Create an environment variable REACT_APP_SCENE_ID={SCENEID} to set a different scene as the default.
+Create an environment variable SCENE_ID={SCENEID} to set a different scene as the default.
 
 Install dependencies
 `npm install`
