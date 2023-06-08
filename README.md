@@ -28,4 +28,5 @@ Create production build
 `.env` - Contains URL and SceneID
 
 ## Few pointers
-It seems like, copy plugin in webpack causing the initial issue when running project in dev mode. Unfortuanately, I do not have much time left to check and resolve. I hope, you understand. Here is a working demo video - https://app.screencast.com/Ng5IW1znIZ7RA
+1. Project is built with Typescript + Recact + Webpack
+2. It seems like, copy plugin in webpack causing the initial issue when running project in dev mode. Unfortuanately, I do not have much time left to check and resolve. I hope, you understand. Here is a working demo video - https://app.screencast.com/Ng5IW1znIZ7RA
