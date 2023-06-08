@@ -6,8 +6,7 @@
   "scripts": {
     "start": "webpack serve --config webpack.dev.config.ts",
     "build": "webpack --config webpack.prod.config.ts",
-    "dependencies": "node ./dependencies/worker.js",
-    "demo": "webpack serve --open"
+    "dependencies": "node ./dependencies/worker.js"
   },
   "author": "",
   "license": "MIT",
